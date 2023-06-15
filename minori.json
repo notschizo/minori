@@ -54,17 +54,16 @@
             "#87ff9b"
         ],
         "BACKGROUND_FLOATING": [
-            "#723e4b"
+            "#b44062"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#FFA8C7"
-        
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#723e4b"
+            "#b44062"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#723e4b"
+            "#b44062"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#572f39"
