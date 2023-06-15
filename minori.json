@@ -57,7 +57,7 @@
             "#37254D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1E264D"
+            "#371B59"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#37254D"
@@ -102,7 +102,7 @@
             "#d1b6bd"
         ],
         "CHAT_BACKGROUND": [
-            "#572f39"
+            "#B3B5F5"
         ]
     },
     "rawColors": {
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0.13,
     "url": "https://media.discordapp.net/attachments/966603417327902760/1118805557759971378/FUHQ5YUy.png",
-    "alpha": 0.53
+    "alpha": 0.45
   },
     "spec": 2
 }
