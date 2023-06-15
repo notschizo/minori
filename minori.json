@@ -45,7 +45,7 @@
             "#87ff9b"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#87ff9b"
+            "#FF0000"
         ],
         "BACKGROUND_TERTIARY": [
             "#ED93B3"
@@ -57,7 +57,8 @@
             "#723e4b"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#FFB0D67F"
+            "#93a8b2"
+        
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#723e4b"
@@ -136,7 +137,7 @@
   "background": {
     "blur": 0,
     "url": "https://media.discordapp.net/attachments/966603417327902760/1118805557759971378/FUHQ5YUy.png",
-    "alpha": 0.95
+    "alpha": 0.75
   },
     "spec": 2
 }
