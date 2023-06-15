@@ -57,7 +57,7 @@
             "#37254D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#FFA8C7"
+            "#1E264D"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#37254D"
@@ -117,7 +117,7 @@
         "PRIMARY_630": "#572f39",
         "PRIMARY_660": "#572f39",
         "PRIMARY_700": "#572f39",
-        "PRIMARY_800": "#572f39",
+        "PRIMARY_800": "#0D092E",
         "PRIMARY_900": "#572f39",
         "YELLOW_300": "#eb3f6a",
         "BRAND_260": "#eb3f6a",
