@@ -113,11 +113,11 @@
         "PRIMARY_360": "#d1b6bd",
         "PRIMARY_400": "#eb3f6a",
         "PRIMARY_500": "#723e4b",
-        "PRIMARY_600": "#572f39",
+        "PRIMARY_600": "#23103B",
         "PRIMARY_630": "#572f39",
         "PRIMARY_660": "#572f39",
         "PRIMARY_700": "#572f39",
-        "PRIMARY_800": "#0D092E",
+        "PRIMARY_800": "#23103B",
         "PRIMARY_900": "#572f39",
         "YELLOW_300": "#eb3f6a",
         "BRAND_260": "#eb3f6a",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0.13,
     "url": "https://media.discordapp.net/attachments/966603417327902760/1118805557759971378/FUHQ5YUy.png",
-    "alpha": 0.65
+    "alpha": 0.53
   },
     "spec": 2
 }
