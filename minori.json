@@ -33,7 +33,7 @@
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#452e60"
+            "#8f4f5f"
         ],
         "INTERACTIVE_MUTED": [
             "#ab969c"
@@ -72,9 +72,9 @@
             "#572f39"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#8f4f5f"
+            "#452e60"
         ],
-        "BACKGROUND_MODIFIER_ACCENT": [
+        "BACKGROUND_MOD#8f4f5fIFIER_ACCENT": [
             "#723e4b"
         ],
         "SCROLLBAR_THIN_THUMB": [
