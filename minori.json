@@ -133,10 +133,10 @@
         "WHITE_500": "#f2d8de"
        
     },
-  "background": {
+  "background": {ffb0f7
     "blur": 0,
     "url": "https://media.discordapp.net/attachments/966603417327902760/1118805557759971378/FUHQ5YUy.png",
-    "alpha": 0.20
+    "alpha": 0.95
   },
     "spec": 2
 }
