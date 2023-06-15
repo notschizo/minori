@@ -27,7 +27,7 @@
             "#eb2b4b"
         ],
         "INTERACTIVE_NORMAL": [
-            "#452e60"
+            "#FFF4F9"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
@@ -57,7 +57,7 @@
             "#37254D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000848"
+            "#00132A"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#37254D"
@@ -96,7 +96,7 @@
             "#f2d8de"
         ],
         "CHANNEL_ICON": [
-            "#d1b6bd"
+            "#E5FFE1"
         ],
         "CHANNELS_DEFAULT": [
             "#d1b6bd"
