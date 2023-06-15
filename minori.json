@@ -27,13 +27,13 @@
             "#eb2b4b"
         ],
         "INTERACTIVE_NORMAL": [
-            "#dca1bf"
+            "#452e60"
         ],
         "INTERACTIVE_HOVER": [
             "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f2d8de"
+            "#452e60"
         ],
         "INTERACTIVE_MUTED": [
             "#ab969c"
@@ -50,6 +50,7 @@
         "BACKGROUND_TERTIARY": [
             "#452e60"
         ],
+    ],
         "BACKGROUND_ACCENT": [
             "#87ff9b"
         ],
@@ -134,9 +135,9 @@
        
     },
   "background": {
-    "blur": 0,
+    "blur": 0.13,
     "url": "https://media.discordapp.net/attachments/966603417327902760/1118805557759971378/FUHQ5YUy.png",
-    "alpha": 0.75
+    "alpha": 0.65
   },
     "spec": 2
 }
