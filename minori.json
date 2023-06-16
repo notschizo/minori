@@ -1,5 +1,5 @@
 {
-    "name": "Minori <3",
+    "name": "Minori <3(dev)",
     "description": "i love her so much",
     "authors": [
         {
@@ -15,10 +15,10 @@
             "#87ff9b"
         ],
         "TEXT_NORMAL": [
-            "#f2d8de"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#d1b6bd"
+            "#bfbfbf"
         ],
         "TEXT_DANGER": [
             "#eb3f6a"
@@ -51,13 +51,13 @@
             "#452e60"
         ],
         "BACKGROUND_ACCENT": [
-            "#C2FACB"
+            "#579962"
         ],
         "BACKGROUND_FLOATING": [
-            "#2C2745"
+            "#452e60"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#221042"
+            "#37254D"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#37254D"
@@ -95,8 +95,11 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#f2d8de"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#ffffff"
+        ],
         "CHANNEL_ICON": [
-            "#E5FFE1"
+            "#C2FACB"
         ],
         "CHANNELS_DEFAULT": [
             "#d1b6bd"
@@ -106,19 +109,19 @@
         ]
     },
     "rawColors": {
-        "PRIMARY": "#572f39",
+        "PRIMARY": "#37254D",
         "PRIMARY_100": "#f2d8de",
         "PRIMARY_200": "#d1b6bd",
         "PRIMARY_300": "#eb3f6a",
         "PRIMARY_360": "#d1b6bd",
         "PRIMARY_400": "#eb3f6a",
-        "PRIMARY_500": "#723e4b",
+        "PRIMARY_500": "#221334",
         "PRIMARY_600": "#23103B",
-        "PRIMARY_630": "#572f39",
-        "PRIMARY_660": "#572f39",
-        "PRIMARY_700": "#572f39",
+        "PRIMARY_630": "#37254D",
+        "PRIMARY_660": "#221334",
+        "PRIMARY_700": "#37254D",
         "PRIMARY_800": "#23103B",
-        "PRIMARY_900": "#572f39",
+        "PRIMARY_900": "#37254D",
         "YELLOW_300": "#eb3f6a",
         "BRAND_260": "#eb3f6a",
         "BRAND_360": "#e35f80",
