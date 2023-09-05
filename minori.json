@@ -108,6 +108,20 @@
             "#000000"
         ]
     },
+   "CHAT_BACKGROUND": {
+      "source": {
+         "darker": "DONTUSE_16",
+         "amoled": "BLACK_500",
+         "light": "WHITE_500",
+         "dark": "PRIMARY_600"
+    },
+    "colors": {
+      "darker": "#31323f",
+      "amoled": "#000000",
+      "light": "#ffffff",
+      "dark": "#313338"
+    }
+  },
     "rawColors": {
         "PRIMARY": "#37254D",
         "PRIMARY_100": "#f2d8de",
